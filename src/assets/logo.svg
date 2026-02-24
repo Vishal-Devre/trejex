@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none">
+  <!-- Shoe upper curve -->
+  <path d="M82 55 C82 55, 92 25, 108 42 C118 52, 135 40, 148 38 C158 36, 168 42, 168 55 C168 62, 158 70, 145 72 C125 75, 95 72, 75 65 C60 60, 55 52, 62 45 C68 38, 78 40, 82 55Z" 
+        fill="currentColor"/>
+  <!-- Sole swoosh -->
+  <path d="M42 88 C28 84, 22 78, 30 72 C38 66, 60 64, 85 68 C110 72, 140 74, 160 70 C172 68, 185 72, 185 80 C185 88, 170 94, 150 92 C125 89, 95 92, 70 92 C52 92, 40 90, 42 88Z" 
+        fill="currentColor"/>
+  <!-- Accent swoosh -->
+  <path d="M30 102 C55 96, 100 98, 145 96 C165 95, 190 90, 198 88" 
+        stroke="currentColor" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- TREJEX text -->
+  <text x="120" y="155" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="6" fill="currentColor">TREJEX</text>
+</svg>

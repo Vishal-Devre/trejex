@@ -1,0 +1,36 @@
+.wishlist-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+  min-height: 60vh;
+}
+
+.wishlist-page h1 {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 0 0 24px;
+}
+
+.wishlist-empty {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.wishlist-empty .empty-icon {
+  font-size: 64px;
+  color: var(--text-secondary);
+  opacity: 0.3;
+  margin-bottom: 20px;
+}
+
+.wishlist-empty h2 {
+  font-size: 24px;
+  color: var(--text-primary);
+  margin: 0 0 8px;
+}
+
+.wishlist-empty p {
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+}
